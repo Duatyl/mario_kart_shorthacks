@@ -1,7 +1,6 @@
-:root{
-  background-color: black;
-  color: #ffffff;
-  
+body {
+  background: #ffffff;
+  color: #1a1a1a;
 }
 
 @media screen and (max-width: 600px) {
