@@ -1,7 +1,7 @@
-* {
-  background: #000000;
-  color: #ffffff;
-}
+body {
+        color: #ccc;
+        background: #222;
+    }
 
 @media screen and (max-width: 600px) {
   .topnav a {
